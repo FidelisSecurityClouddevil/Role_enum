@@ -1,4 +1,4 @@
-# role_enum
+# Role_enum
 
 Script to enumerate IAM role in aws orgnaziation.
 For full functionality, the script will require a user with the following AWS permissions:
