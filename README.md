@@ -4,7 +4,8 @@ Script to enumerate IAM role in aws orgnaziation.
 For full functionality, the script will require a user with the following AWS permissions:
   - iam:Get*
   - iam:List*
-  
+ 
+ The script uses AWS SDK for python, Boto3. 
 # Usage
 - The script supports python3 
 - Installing:  ``` pip install -r requierments.txt  ```
