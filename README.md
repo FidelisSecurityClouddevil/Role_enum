@@ -5,7 +5,8 @@ For full functionality, the script will require a user with the following AWS pe
   - iam:Get*
   - iam:List*
  
- The script uses AWS SDK for python, Boto3. 
+The script uses the following Amazon libaries: <br />
+[Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) <br />
 # Usage
 - The script supports python3 
 - Installing:  ``` pip install -r requierments.txt  ```
