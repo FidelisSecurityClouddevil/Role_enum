@@ -5,7 +5,7 @@ For full functionality, the script will require a user with the following AWS pe
   - iam:Get*
   - iam:List*
  
-The script uses the following Amazon libaries: <br />
+The script uses the following Amazon libary: <br />
 [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) <br />
 # Usage
 - The script supports python3 
